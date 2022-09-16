@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-2882337581599424202
+--- !u!114 &-817497891412276856
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -31,7 +31,6 @@ Material:
   - _MK_WRAPPED_DIFFUSE
   m_InvalidKeywords:
   - _RECEIVESHADOWS_ON
-  - _SPECULAR_SETUP
   - _WRAPPEDLIGHTING_ON
   m_LightmapFlags: 6
   m_EnableInstancingVariants: 0
@@ -249,14 +248,14 @@ Material:
     - _VertexAnimation: 0
     - _VertexAnimationIntensity: 0.05
     - _VertexAnimationStutter: 0
-    - _WorkflowMode: 0
+    - _WorkflowMode: 1
     - _WrappedLighting: 1
     - _ZTest: 4
     - _ZWrite: 1
     m_Colors:
-    - _AlbedoColor: {r: 0.9307399, g: 1, b: 0, a: 1}
-    - _BaseColor: {r: 0.9307399, g: 1, b: 0, a: 1}
-    - _Color: {r: 0.9307399, g: 1, b: 0, a: 1}
+    - _AlbedoColor: {r: 0.9593774, g: 0.9622642, b: 0.24056605, a: 1}
+    - _BaseColor: {r: 0.97521883, g: 0.9811321, b: 0, a: 1}
+    - _Color: {r: 0.97521883, g: 0.9811321, b: 0, a: 1}
     - _DissolveBorderColor: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _GoochBrightColor: {r: 1, g: 1, b: 1, a: 1}

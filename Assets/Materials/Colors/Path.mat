@@ -262,7 +262,7 @@ Material:
     - _Cutoff: 0.54
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
-    - _DiffuseSmoothness: 0
+    - _DiffuseSmoothness: 1
     - _DiffuseThresholdOffset: 0.25
     - _DirX: 0
     - _DirY: 0
@@ -385,7 +385,7 @@ Material:
     - _Specular: 1
     - _SpecularHighlights: 1
     - _SpecularIntensity: 1
-    - _SpecularSmoothness: 0
+    - _SpecularSmoothness: 1
     - _SpecularThresholdOffset: 0.25
     - _SrcBlend: 1
     - _Stencil: 1
@@ -396,7 +396,7 @@ Material:
     - _StencilRef: 0
     - _StencilWriteMask: 255
     - _StencilZFail: 0
-    - _StylizeTab: 0
+    - _StylizeTab: 1
     - _Surface: 0
     - _ThresholdMapScale: 1
     - _UVSec: 0
@@ -411,7 +411,7 @@ Material:
     - _ZWriteOverride: 0
     m_Colors:
     - _AOColor: {r: 0, g: 0, b: 0, a: 1}
-    - _AlbedoColor: {r: 0.9339623, g: 0.6828498, b: 0.6828498, a: 1}
+    - _AlbedoColor: {r: 0.5566928, g: 0.61214113, b: 0.8490566, a: 1}
     - _AmbientColor: {r: 0, g: 0, b: 0, a: 0}
     - _BASE_COLOR: {r: 0.11816931, g: 1, b: 0, a: 0}
     - _BaseColor: {r: 0, g: 1, b: 0.22824574, a: 1}
